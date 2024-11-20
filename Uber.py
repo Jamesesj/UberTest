@@ -17,7 +17,7 @@ import numpy as np
 # In[3]:
 
 
-st.title("Uber Pickups in NYC")
+st.title("Uber Pickups in NYC Test")
 
 DATE_COLUMN="date/time"
 
